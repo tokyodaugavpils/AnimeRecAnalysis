@@ -34,7 +34,7 @@ Understand overall user rating behavior (most users give 8–10 stars).
 
 Average Rating by Genre
   
-    •	Cleans rows with missing genre or rating_y
+    	  •	Cleans rows with missing genre or rating_y
  
 	  •	Splits multi-genre strings into individual genre entries using explode()
    
