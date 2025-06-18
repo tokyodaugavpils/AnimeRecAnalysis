@@ -20,7 +20,7 @@ Dataset
 File Descriptions
 
 
-	animerec1.py
+	animerec1.ipynb
 
 User Ratings Distribution
 
@@ -33,7 +33,7 @@ User Ratings Distribution
 Goal:
 Understand overall user rating behavior (most users give 8–10 stars).
 
-	animerec2.py
+	animerec2.ipynb
 
 Average Rating by Genre
   
@@ -48,7 +48,7 @@ Average Rating by Genre
 Goal:
 Find out which genres have the highest average ratings individually.
 
-	animerec3.py
+	animerec3.ipynb
 
 User Behavior: Optimistic Users
 
@@ -61,7 +61,7 @@ User Behavior: Optimistic Users
 Goal:
 Detect users who consistently rate anime very highly — useful for understanding rating bias or designing personalized systems.
 
-	animerec4.py
+	animerec4.ipynb
 
 Top Anime Types
 
@@ -70,7 +70,7 @@ Top Anime Types
 Goal:
 Identify which anime types dominate the platform.
 
-	animerec5.py
+	animerec5.ipynb
 
 Popular Titles
 
