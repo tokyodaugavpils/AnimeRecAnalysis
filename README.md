@@ -11,6 +11,9 @@ Project Overview
 Dataset
 
   We use dataset "Anime Recommendations Database" by CooperUnion
+  
+  	rating.csv
+   	anime.csv
 
 ⸻
 
